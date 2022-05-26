@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivnnbrik
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS and JS. 
-- 🚀 Looking froward to new projects!
+- 🚀 Looking forward to new projects!
 
 
 <!---
